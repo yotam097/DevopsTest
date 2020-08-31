@@ -1,1 +1,0 @@
-"C:\Users\yotam.a\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.8\Python 3.8 (32-bit).lnk" "C:\Users\yotam.a\PycharmProjects\SelfProject\WebDateSearch.py" 
