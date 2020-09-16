@@ -1,9 +1,10 @@
 import hashlib
 import os
 
-checksum = input("Enter file's checksum: ")
+checksum = input("Enter the file checksum: ")
+folder_dir = input("Enter the folder diraction: ")
 
-os.chdir("C:\\Users\\yotam.a\\Downloads")
+os.chdir(folder_dir)
 
 filename = input("Enter the file name: ")
 sha256_hash = hashlib.sha256()
