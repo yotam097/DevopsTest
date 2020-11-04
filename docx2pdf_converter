@@ -1,0 +1,4 @@
+from docx2pdf import convert
+
+# path to folder/file.docx, path to folder/file.pdf
+convert('<path>', '<path>')
